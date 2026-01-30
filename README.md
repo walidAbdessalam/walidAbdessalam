@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=walidabdessalam&label=Profile%20views&color=0e75b6&style=flat-square" />
+  👨‍💻 About Me
+  <br>
+  💻 Web & Mobile Developer from Algeria  
+🚀 Passionate about building modern, responsive apps  
+🌱 Always learning new technologies and improving skills
 </p>
 
 ---
